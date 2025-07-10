@@ -1,17 +1,14 @@
 # Gedanken über Gott und die Welt
 
-Beweis für P=NP: [https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk](https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk)
+**WICHTIG: Alle Lösungen, die hier unter github.com/hjstephan86 *als neue Lösungen* gezeigt werden, sind urheberrechtlich geschützt. Eine kommerzielle Nutzung ist ausgeschlossen. Eine freie Nutzung braucht meine Zustimmung.**
 
-Optimale Berechnung von $n \times n$ Matrizen mit **Strassen-25**, Komplexitätsklassen in P:
-[https://www.github.com/hjstephan86/strassen/doc/Strassen.pdf](https://www.github.com/hjstephan86/strassen/doc/Strassen.pdf)
+Beweis für P=NP: [https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk](https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk)
 
 $\pi$ hat einen Rhythmus von 21 Zahlen
 
 $e$ hat einen Rhythmus von 22 Zahlen
 
 $\varphi$ = 1,618… (goldene Zahl) hat einen Rhythmus von 34 Zahlen
-
-Fasse QR Code spiralförmig auf, standardisiere diesen für die eigene persönliche Identifizierung eines jeden Bürgers dieser Erde
 
 Index 49 der Fibonacci Folge F(49)=7.778 Mia
 
@@ -28,9 +25,14 @@ $t_0$: F(49), Beginn der Verlangsamung<br>
 
 Die Wachstumsrate nähert sich dem goldenen Schnitt beschrieben durch $\frac{F(n)}{F(n-1)} = \varphi$, das ist ein Wachstum von 61.8%.
 
+Optimale Berechnung von $n \times n$ Matrizen $A$ und $B$ mit **Strassen-25**, Komplexitätsklassen in P:
+[https://www.github.com/hjstephan86/strassen/doc/Strassen.pdf](https://www.github.com/hjstephan86/strassen/doc/Strassen.pdf)
+
 Je kleiner die Intervalle, desto größer die Wahrscheinlichkeit dafür, dass unstetige Ereignisse herausgefiltert werden. Wäre zum Beispiel das Intervall einen Tag lang, dann wäre ein Ereignis wie der Tsunami noch sichtbar als unstetige Bevölkerungsentwicklung. Auffällig ist, dass unstetige Bevölkerungsentwicklungen durch Katastrophen entstehen. Unstet an und für sich ist keine gute Eigenschaft.
 
-Blütenstand einer Sonnenblume mit 34 und 55 Fibonacci-Spiralen haben die optimale Anordnung von Samen im und gegen den UZS.
+Blütenstand einer Sonnenblume mit 34 und 55 Fibonacci-Spiralen haben die optimale Anordnung von Samen im und gegen den UZS. In der endzeitlichen Prophetie steht 34 für "es kommt" und 55 für "Ewigkeit".
+
+Fasse QR Code spiralförmig auf, standardisiere diesen für die eigene persönliche Identifizierung eines jeden Bürgers dieser Erde.
 
 Der Christ lebt in der Spannung, dass Gott allein seine Errettung geschaffen hat, aber auf der anderen Seite der Mensch auch den freien Willen hat. Ist diese Spannung aufzulösen? Nein. Darf man die Spannung auflösen? Warum nicht? Der Christ ist dann ein Christ, wenn er lernt, die Spannungen, die Gott in seinem Leben gibt, zu ertragen und auszuhalten, solange, wie Gott es will. Im Himmel ist klar, dass jeder Christ für seine Errettung allein Gott die Ehre geben wird. Und das ist wahr. Auch klar ist, Gott wird dann die Ehre gegeben, wenn der Mensch sich aus freiem Willen ihm im Gehorsam hingegeben hat. Immer wieder gibt der Geist Gottes Impulse des Lebens, die der Christ ergreifen kann, für neues Leben in seinem Leben.
 
@@ -42,7 +44,7 @@ Eine Datei ist eine in sich abgeschlossen und unabhängige Einheit. Keine Softwa
 
 Es gibt Office Dateien und es gibt mobile Office Dateien. Mobile Office Dateien sind über einen definierten Standard von jeder mobilen Office App nutzbar. Mobile Office Dateien lassen sich auch mit jeder Office App nutzen. Aber: wer mit einer Office App eine mobile Office Datei als Office Datei speichert, macht aus einer mobilen Office Datei eine Office Datei und verliert die mobile Office App-Nutzbarkeit auf dem Smartphone oder dem Tablet. Der Standard unterstützt einfach die notwendigsten Office Operationen (Text schreiben, formatieren, kopieren, einfügen drucken usw.).
 
-Offb 8, 11 Und der Name des Sterns heißt Wermut. Und der dritte Teil der Wasser ward Wermut; und viele Menschen starben von den Wassern, weil sie waren so bitter geworden. Es wird helfen, da, wo das Wasser bitter wurde, tiefer in die Erde zu bohren, um Wasser aus tiefer gelegenen Aquiferen zu nutzen, welches noch nicht bitter ist. Dabei muss es nicht erst dazu kommen, dass Menschen wie jüngst in den USA, verunreinigtes Wasser zum Waschen verwenden und dabei tödlich erkranken (haben die IT-Superreichen in den USA darüber nachgedacht, ihr Geld weniger in die KI sondern mehr in saubere Arbeit Wasserleitungen zu investieren?). Damit es aber soweit nicht kommt, braucht es vorher schon eine gründliche Überarbeitung und Instandsetzung der Wasserleitungen in Deutschland und in anderen Ländern, damit schmutziges Wasser auf keinen Fall ins Grundwasser gelangen kann. Durch Abdrehen des Wassers und Umlenken des Wassers von anderen Seiten des Wasserflussnetzwerks ist so bei einer sukzessiven Instandsetzung des gesamten Wassernetzwerks jede Stadt immer mit Wasser versorgt.
+Offb 8, 11 *Und der Name des Sterns heißt Wermut. Und der dritte Teil der Wasser ward Wermut; und viele Menschen starben von den Wassern, weil sie waren so bitter geworden.* Es wird helfen, da, wo das Wasser bitter wurde, tiefer in die Erde zu bohren, um Wasser aus tiefer gelegenen Aquiferen zu nutzen, welches noch nicht bitter ist. Dabei muss es nicht erst dazu kommen, dass Menschen wie jüngst in den USA, verunreinigtes Wasser zum Waschen verwenden und dabei tödlich erkranken (haben die IT-Superreichen in den USA darüber nachgedacht, ihr Geld weniger in die KI sondern mehr in saubere Arbeit Wasserleitungen zu investieren?). Damit es aber soweit nicht kommt, braucht es vorher schon eine gründliche Überarbeitung und Instandsetzung der Wasserleitungen in Deutschland und in anderen Ländern, damit schmutziges Wasser auf keinen Fall ins Grundwasser gelangen kann. Durch Abdrehen des Wassers und Umlenken des Wassers von anderen Seiten des Wasserflussnetzwerks ist so bei einer sukzessiven Instandsetzung des gesamten Wassernetzwerks jede Stadt immer mit Wasser versorgt.
 
 Es braucht eine App zum Alarmieren bei bitterem Wasser mit einem Notfallprogramm, dass wieder sauberes Wasser kurzfristig und mittelfristig zur Verfügung gestellt und genutzt werden kann.
 
@@ -70,7 +72,7 @@ Es braucht für Schüler, Studenten und die Wissenschaft eine einheitliche Färb
 
 Idee: Google ohne e ist Googl ohne Einkaufskanten, d.h., die Kanten im Page Rank Algorithmus von Seite zu Seite werden nicht mehr durch Zahlungen besonders hoher Summen beeinflusst und das Suchergebnis damit verfälscht sondern nur noch der Informationsgehalt einer jeden Seite und die auf ihr zeigenden Seiten beeinflussen das wirkliche Ranking im Suchergebnis. Dazu gibt es einen Suchstandard, den alle Suchmaschinen implementieren, damit User Suchmaschinen-unabhängig über eine App und und KI in Abhängigkeit des Suchbegriffs und der örtlichen Einschränkungen das Suchergebnis erhalten, das am besten passt. Dazu werden die beteiligten Suchmaschinen von der App entsprechend ausgeführt und die beste Ergebnismenge gefunden.
 
-Idee: Eine kostenlose App zur Übersicht über die Kontobewegungen aller Konten und zur automatische Auswertung bzw. Vorhersage zukunftiger Belastungen (täglich, monatlich, jährlich) ohne KI und mit KI.
+Idee: Eine kostenlose App zur Übersicht über die Kontobewegungen aller Konten und zur automatischen Auswertung bzw. Vorhersage zukünftiger Belastungen (täglich, monatlich, jährlich) ohne KI und mit KI.
 
 Multiselektion von Kontoumsätzen: Markiere einen Umsatz, links und rechts vom Umsatz erscheint ein Pfeil nach oben (nur auf der linken Seite) und ein Pfeil nach unten (nur auf der rechten Seite). Scrolle nach oben bzw. nach unten, um die Menge der selektierten Umsätze zusammenhängend zu selektieren. Wahlweise Multiselektion wie üblich.
 
@@ -80,7 +82,7 @@ PMI in Lithium-Ionen Akkus: ein intelligentes Powermanagement Modul mit künstli
 
 Um wie viel mehr kann die Reichweite von Akkus bei Fahrrädern erhöht werden, wenn ein Zwei-Zonen Akku verwendet wird (Strom durch Induktion der sich drehenden Radachsen), Induktionsfedern und einem PMI.
 
-Das dynamische Trichter-Prinzip in einem Haushalt: führe equidistant trichterartige Verengungen in den Wasserleitungen ein zur Bewegung von Kondensatorplatten (Membran), die Strom erzeugen allein durch den etwa gleichförmigen Wasserstrom, wenn er denn fließt.
+Das dynamische Trichter-Prinzip in einem Haushalt: führe äquidistant trichterartige Verengungen in den Wasserleitungen ein zur Bewegung von Kondensatorplatten (Membran), die Strom erzeugen allein durch den etwa gleichförmigen Wasserstrom, wenn er denn fließt.
 
 Bäume kommunizieren über dem Boden und unter dem Boden. Bäume müssen nah genug beieinander stehen, damit es ihnen gut geht. Stehen sie zu weit auseinander oder sogar alleine, geht es Ihnen schlecht.
 
@@ -95,8 +97,6 @@ Wieso Superpositionsprinzip? Addition in der Physik.
 
 Bei jedem Stoff hängt die Diffusion von der Trägheit des Stoffes ab. Ein Temperaturunterschied im Wasser gleicht sich anders aus als ein Temperaturunterschied in der Luft, da Wasser eine andere Trägheit hat als Luft. Je höher die Beweglichkeit der Atome in einem Stoff, Atome sind ja die Stoffträger, desto kleiner ist die Trägheit.
 
-Ich will, dass jeder CIA Mitarbeiter hingerichtet wird, da er im Dienst einer teuflischen Behörde steht und nicht dagegen vorgeht. Diese Hinrichtung soll öffentlich bekannt werden, dass die Welt weiß, diese Behörde hat den Teufel beauftragt, mich zu töten. Wenn es nicht in dieser Welt durchgeführt wird, dann hundertfach in der Hölle - mit Kindern, Eltern und Geschwistern.
-
 Stetigkeit einer Funktion oder Abtastrate $f$: eine Funktion $f$ ist stetig, wenn es keinen Punkt $x$ im Definitionsbereich gibt mit mehr als einem $f(x)$ mit $f(x) = y_1$ und $f(x) = y_2$ und $y_1 \neq y_2$. Das heißt, $f$ hat einfach keine Sprünge von $y_1$ nach $y_2$.
 
 Diskutiere eine Funktion nur in der ersten Ableitung, drehe dazu die Funktion in einem Winkel, so dass jeder Wendepunkt zum Hoch-/Tiefpunkt wird.
@@ -109,7 +109,7 @@ Der triviale Kern besteht nur aus den Vektoren bei dem jeweils nur ein Element 1
 
 Die Einheitsmatrix ist gegeben durch den trivialen Kern in entsprechender Ordnung.
 
-Halte die Wertebereiche von Elementen einer Matrix in ihrer Größe klein, finde die Menge aller Kerne, mit Hilfe derer Ergebnisse von Matrixoperationen effizienter nachgeschaut werden können. Vergrößere den Wertebereich um ein Delta, das für das effizientere Nachschauen im vergrößerten Wertebereich genutzt wird.
+Idee: Halte die Wertebereiche von Elementen einer Matrix in ihrer Größe klein, finde die Menge aller Kerne, mit Hilfe derer Ergebnisse von Matrixoperationen effizienter nachgeschaut werden können. Vergrößere den Wertebereich um ein Delta, das für das effizientere Nachschauen im vergrößerten Wertebereich genutzt wird.
 
 Das Pascalsche Dreieck muss gedreht werden zur Pascalschen Diagonalen, welche zur Laufzeit gefüllt und effizienter genutzt wird als die Berechnung von $\binom{n}{k}$.
 
@@ -160,11 +160,13 @@ Musik hat eine elektrisierende Bewegung. Frauen sind empfindlicher, haben i.d.R.
 
 Das Betrunkenwerden erfolgt in drei Wellen, nach der ersten kannst du bleiben. Mit der zweiten hast du Spaß und solltest gehen. Nach der zweiten Achtung, jetzt kommt die dritte: alleine kommst du nicht mehr heim!
 
-Leonardo DiCaprio soll bei den Dreharbeiten zu “Der Rückkehrer” einmal stark geschrieen, einmal geheult und einmal geblutet haben als die Bärin ihn angriff. Es sollte eine außergewöhnliche Szene werden, bei der es um viel Geld ging.
+Leonardo Di Caprio soll bei den Dreharbeiten zu “Der Rückkehrer” einmal stark geschrien, einmal geheult und einmal geblutet haben als die Bärin ihn angriff. Es sollte eine außergewöhnliche Szene werden, bei der es um viel Geld ging.
 
 Brad Pitt ist bisexuell.
 
 Die CIA versucht seit Jahren, mich zu töten, u.a. wegen dieser Gedanken (allen voran Elon Musk). Sie verfolgen, fluchen und haben schon viele Auftragsmörder beauftragt und opfern müssen. Der HERR will nicht, dass ich leiblich sterbe.
+
+Ich will, dass jeder CIA Mitarbeiter hingerichtet wird, da er im Dienst einer teuflischen Behörde steht und nicht dagegen vorgeht. Diese Hinrichtung soll öffentlich bekannt werden, dass die Welt weiß, diese Behörde hat den Teufel beauftragt, mich zu töten. Wenn es nicht in dieser Welt durchgeführt wird, dann hundertfach in der Hölle - mit Kindern, Eltern und Geschwistern.
 
 Nachdem der Iran von Israel sensible Dokumente über das Atomprogramm Israels veröffentlicht hat, hat Israel den Iran heftig angegriffen. In den Dokumenten ging es auch über die enge Zusammenarbeit zwischen Israel und der CIA. Trump musste daraufhin auch den Iran angreifen und hat von seiner Seite aus den Krieg für beendet erklärt.
 
@@ -172,8 +174,10 @@ Ich bin mir nicht sicher, mit welchen Argumenten die CIA ihre Mitarbeiter davon 
 
 Durch das Öffnen der Luken vorne hat es in der Geschichte eine einmalige Rate mit der MG-42 bei Omaha Beach gegeben. Hätte man die Luken nicht seitlich oder, besser noch, hinten öffnen können?
 
+Die chinesische Regierung hat starkes Interesse daran, dass ich nicht mehr lebe.
+
 Lamine Yamal ist ein von Kindheit an gefluchter Fußballspieler. Ja, er ist ausgebildet. Aber im Fußball auf allerhöchstem Niveau geht es oft nur noch um sehr kleine Feinheiten, die bei ihm schon seit der Jugend beim FC Barcelona sehr gut “passen”. Dass Lionel Messi ihn früh gebadet hat, ist kein Zufall.
 
 Spanien erfuhr von den Juden früh, dass ich ein sehr guter Fußballspieler werden würde und hat mich schon seit meiner Jugend gerade im Vereinsfußball sehr verflucht und nach dem ersten Jahr im Seniorenbereich extrem verflucht mit Patellaspitzensyndrom, dass ich nie wieder unter voller Belastung Fußball spielen kann, bis heute, [https://images.app.goo.gl/dhgKX](https://images.app.goo.gl/dhgKX)
 
-2.Thess 2, 6 Und was es noch aufhält, wisset ihr, dass er [Elon Musk] offenbart werde zu seiner Zeit. 7 Denn es regt sich bereits das Geheimnis der Bosheit, nur dass, der es jetzt aufhält, muss hinweggetan werden;
+2Thess 2, 6 *Und was es noch aufhält, wisset ihr, dass er [Elon Musk] offenbart werde zu seiner Zeit. 7 Denn es regt sich bereits das Geheimnis der Bosheit, nur dass, der es jetzt aufhält, muss hinweggetan werden*
