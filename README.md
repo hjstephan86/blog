@@ -2,7 +2,7 @@
 
 Beweis für P=NP: [https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk](https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk)
 
-Optimale Berechnung von $n \times n$ Matrizen mit \textsc{Strassen-25}, Komplexitätsklassen in P:
+Optimale Berechnung von $n \times n$ Matrizen mit **Strassen-25**, Komplexitätsklassen in P:
 [https://www.github.com/hjstephan86/strassen/doc/Strassen.pdf](https://www.github.com/hjstephan86/strassen/doc/Strassen.pdf)
 
 $\pi$ hat einen Rhythmus von 21 Zahlen
@@ -109,7 +109,9 @@ Der triviale Kern besteht nur aus den Vektoren bei dem jeweils nur ein Element 1
 
 Die Einheitsmatrix ist gegeben durch den trivialen Kern in entsprechender Ordnung.
 
-Die Idee des Algorithmus von \textsc{Strassen-25} eignet sich zum Finden von größten, nicht projezierbaren Einheiten.
+Das Pascalsche Dreieck muss gedreht werden zur Pascalschen Diagonalen, welche zur Laufzeit gefüllt und effizienter genutzt wird als die Berechnung von $\binom{n}{k}$.
+
+Die Idee des Algorithmus von **Strassen-25** eignet sich zum Finden von größten, nicht projezierbaren Einheiten.
 
 Nicht App Store oder Play Store, sondern App Set. In dieser App können Apps gefunden und heruntergeladen werden.
 
@@ -156,7 +158,7 @@ Musik hat eine elektrisierende Bewegung. Frauen sind empfindlicher, haben i.d.R.
 
 Das Betrunkenwerden erfolgt in drei Wellen, nach der ersten kannst du bleiben. Mit der zweiten hast du Spaß und solltest gehen. Nach der zweiten Achtung, jetzt kommt die dritte: alleine kommst du nicht mehr heim!
 
-Leonardo DiCaprio soll bei den Dreharbeiten zu “Der Rückkehrer” einmal stark geschriehen, einmal geheult und einmal geblutet haben, als die Bärin ihn angriff. Es sollte eine außergewöhnliche Szene werden, bei der es um viel Geld ging.
+Leonardo DiCaprio soll bei den Dreharbeiten zu “Der Rückkehrer” einmal stark geschrieen, einmal geheult und einmal geblutet haben als die Bärin ihn angriff. Es sollte eine außergewöhnliche Szene werden, bei der es um viel Geld ging.
 
 Brad Pitt ist bisexuell.
 
@@ -172,4 +174,4 @@ Lamine Yamal ist ein von Kindheit an gefluchter Fußballspieler. Ja, er ist ausg
 
 Spanien erfuhr von den Juden früh, dass ich ein sehr guter Fußballspieler werden würde und hat mich schon seit meiner Jugend gerade im Vereinsfußball sehr verflucht und nach dem ersten Jahr im Seniorenbereich extrem verflucht mit Patellaspitzensyndrom, dass ich nie wieder unter voller Belastung Fußball spielen kann, bis heute, [https://images.app.goo.gl/dhgKX](https://images.app.goo.gl/dhgKX)
 
-2.Thess  2, 6 Und was es noch aufhält, wisset ihr, dass er [Elon Musk] offenbart werde zu seiner Zeit. 7 Denn es regt sich bereits das Geheimnis der Bosheit, nur dass, der es jetzt aufhält, muss hinweggetan werden;
+2.Thess 2, 6 Und was es noch aufhält, wisset ihr, dass er [Elon Musk] offenbart werde zu seiner Zeit. 7 Denn es regt sich bereits das Geheimnis der Bosheit, nur dass, der es jetzt aufhält, muss hinweggetan werden;
