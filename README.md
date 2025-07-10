@@ -101,6 +101,8 @@ Diskutiere eine Funktion nur in der ersten Ableitung, drehe dazu die Funktion in
 
 Zwei Vektoren $\boldsymbol{u}$ und $\boldsymbol{v}$ projezieren $\boldsymbol{w}$ genau dann, wenn es Konstanten $k_1$ und $k_2$ gibt, so dass $$k_1 \boldsymbol{u} + k_2\boldsymbol{v} = \boldsymbol{w} \neq \boldsymbol{0}.$$
 
+Finde eine minimale Projektion, nimm dann noch eine Konstante $k$ weg, dann ist es die größte Einheit, die aus sich heraus, egal wie, nichts mehr projezieren kann außer $\boldsymbol{0}$.
+
 Nicht App Store oder Play Store, sondern App Set. In dieser App können Apps gefunden und heruntergeladen werden.
 
 Messe Freude beim Hören von Liedern, z.B. bei Youtube Music, über In-Ear Kopfhörer. Die Ohren sind näher am Schädel und damit am Gehirn, um die elektrischen Signale des Gehirns (EEG-Signale) besser zu erfassen.
