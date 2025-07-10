@@ -85,18 +85,17 @@ Das dynamische Trichter-Prinzip in einem Haushalt: führe equidistant trichterar
 Bäume kommunizieren über dem Boden und unter dem Boden. Bäume müssen nah genug beieinander stehen, damit es ihnen gut geht. Stehen sie zu weit auseinander oder sogar alleine, geht es Ihnen schlecht.
 
 Nehmen wir an, die Geschwindigkeit eines Teilchens in einem idealen Gas ist proportional zur Quadratwurzel der Temperatur: 
-v = k*T.
-Hierbei ist k eine Konstante, die von der spezifischen Situation abhängt. Setzen wir diese Beziehung in die Formel für die kinetische Energie
-E= 12mv²
+$v = k \cdot \sqrt{T}$.
+Hierbei ist $k$ eine Konstante, die von der spezifischen Situation abhängt. Setzen wir diese Beziehung in die Formel für die kinetische Energie
+$E = \frac{1}{2}mv^2$
 ein, ergibt das:
-E =12m(kT)² =12mk²T .
-Jede Bewegung auf dieser Erde ist abhängig von der Temperatur. Ohne Bewegung gibt es kein Leben.
+$E =\frac{1}{2}m(k \cdot \sqrt{T})^2 =\frac{1}{2}mk^2T.$ Jede Bewegung auf dieser Erde ist abhängig von der Temperatur. Ohne Bewegung gibt es kein Leben.
 
 Bei jedem Stoff hängt die Diffusion von der Trägheit des Stoffes ab. Ein Temperaturunterschied im Wasser gleicht sich anders aus als ein Temperaturunterschied in der Luft, da Wasser eine andere Trägheit hat als Luft. Je höher die Beweglichkeit der Atome in einem Stoff, Atome sind ja die Stoffträger, desto kleiner ist die Trägheit.
 
 Ich will, dass jeder C+ Mitarbeiter hingerichtet wird, da er im Dienst einer teuflischen Behörde steht und nicht dagegen vorgeht. Diese Hinrichtung soll öffentlich bekannt werden, dass die Welt weiß, diese Behörde hat den Teufel beauftragt, mich zu töten. Wenn es nicht in dieser Welt durchgeführt wird, dann hundertfach in der Hölle - mit Kindern, Eltern und Geschwistern.
 
-Stetigkeit einer Funktion oder Abtastrate: eine Funktion f ist stetig, wenn für beide Achsen x und f(x) gilt, dass es keinen Punkt x im Definitions- (oder Wertebereich) gibt mit mehr als einem f(x).
+Stetigkeit einer Funktion oder Abtastrate $f$: eine Funktion $f$ ist stetig, wenn es keinen Punkt $x$ im Definitionsbereich gibt mit mehr als einem $f(x)$ mit $f(x) = y_1$ und $f(x) = y_2$ und $y_1 \neq y_2$. Das heißt, $f$ hat einfach keine Sprünge von $y_1$ nach $y_2$.
 
 Nicht App Store oder Play Store, sondern App Set. In dieser App können Apps gefunden und heruntergeladen werden.
 
