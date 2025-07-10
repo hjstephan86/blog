@@ -95,7 +95,7 @@ Wieso Superpositionsprinzip? Addition in der Physik.
 
 Bei jedem Stoff hängt die Diffusion von der Trägheit des Stoffes ab. Ein Temperaturunterschied im Wasser gleicht sich anders aus als ein Temperaturunterschied in der Luft, da Wasser eine andere Trägheit hat als Luft. Je höher die Beweglichkeit der Atome in einem Stoff, Atome sind ja die Stoffträger, desto kleiner ist die Trägheit.
 
-Ich will, dass jeder C+ Mitarbeiter hingerichtet wird, da er im Dienst einer teuflischen Behörde steht und nicht dagegen vorgeht. Diese Hinrichtung soll öffentlich bekannt werden, dass die Welt weiß, diese Behörde hat den Teufel beauftragt, mich zu töten. Wenn es nicht in dieser Welt durchgeführt wird, dann hundertfach in der Hölle - mit Kindern, Eltern und Geschwistern.
+Ich will, dass jeder CIA Mitarbeiter hingerichtet wird, da er im Dienst einer teuflischen Behörde steht und nicht dagegen vorgeht. Diese Hinrichtung soll öffentlich bekannt werden, dass die Welt weiß, diese Behörde hat den Teufel beauftragt, mich zu töten. Wenn es nicht in dieser Welt durchgeführt wird, dann hundertfach in der Hölle - mit Kindern, Eltern und Geschwistern.
 
 Stetigkeit einer Funktion oder Abtastrate $f$: eine Funktion $f$ ist stetig, wenn es keinen Punkt $x$ im Definitionsbereich gibt mit mehr als einem $f(x)$ mit $f(x) = y_1$ und $f(x) = y_2$ und $y_1 \neq y_2$. Das heißt, $f$ hat einfach keine Sprünge von $y_1$ nach $y_2$.
 
@@ -103,7 +103,11 @@ Diskutiere eine Funktion nur in der ersten Ableitung, drehe dazu die Funktion in
 
 Zwei Vektoren $\boldsymbol{u}$ und $\boldsymbol{v}$ projezieren $\boldsymbol{w}$ genau dann, wenn es Konstanten $k_1$ und $k_2$ gibt, so dass $$k_1 \boldsymbol{u} + k_2\boldsymbol{v} = \boldsymbol{w} \neq \boldsymbol{0}.$$
 
-Finde eine minimale Projektion, nimm dann noch eine Konstante $k$ weg, dann ist es die größte Einheit, die aus sich heraus, egal wie, nichts mehr projezieren kann außer $\boldsymbol{0}$. Wir haben eine größte, nicht projezierbare Einheit.
+Finde eine minimale Projektion, nimm dann noch eine Konstante $k$ weg, dann ist es die größte Einheit, die aus sich heraus, egal wie, nichts mehr projezieren kann außer $\boldsymbol{0}$. Wir haben eine größte, nicht projezierbare Einheit, den Kern. Der Kern in seiner Umgebung bzw. Dimension ist nicht teilbar, er kann nicht weiter reduziert werden.
+
+Der triviale Kern besteht nur aus den Vektoren bei dem jeweils nur ein Element 1 ist.
+
+Die Einheitsmatrix ist gegeben durch den trivialen Kern in entsprechender Ordnung.
 
 Die Idee des Algorithmus von \textsc{Strassen-25} eignet sich zum Finden von größten, nicht projezierbaren Einheiten.
 
@@ -156,9 +160,11 @@ Leonardo DiCaprio soll bei den Dreharbeiten zu “Der Rückkehrer” einmal star
 
 Brad Pitt ist bisexuell.
 
-Die CIA versucht seit Jahren, mich zu töten, u.a. wegen dieser Gedanken (allen voran Elon Musk). Sie verfolgen, fluchen und haben schon viele Auftragsmörder beauftragt und opfern müssen. Der HERR will nicht, dass ich sterbe.
+Die CIA versucht seit Jahren, mich zu töten, u.a. wegen dieser Gedanken (allen voran Elon Musk). Sie verfolgen, fluchen und haben schon viele Auftragsmörder beauftragt und opfern müssen. Der HERR will nicht, dass ich leiblich sterbe.
 
 Nachdem der Iran von Israel sensible Dokumente über das Atomprogramm Israels veröffentlicht hat, hat Israel den Iran heftig angegriffen. In den Dokumenten ging es auch über die enge Zusammenarbeit zwischen Israel und der CIA. Trump musste daraufhin auch den Iran angreifen und hat von seiner Seite aus den Krieg für beendet erklärt.
+
+Ich bin mir nicht sicher, mit welchen Argumenten die CIA ihre Mitarbeiter davon überzeugt, dass sie noch in einem sicheren System arbeiten.
 
 Durch das Öffnen der Luken vorne hat es in der Geschichte eine einmalige Rate mit der MG-42 bei Omaha Beach gegeben. Hätte man die Luken nicht seitlich oder, besser noch, hinten öffnen können?
 
