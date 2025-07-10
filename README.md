@@ -2,14 +2,14 @@
 
 Beweis für P=NP: [https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk](https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk)
 
-Optimale Berechnung von n x n Matrizen, Komplexitätsklassen in P:
+Optimale Berechnung von $n \times n$ Matrizen, Komplexitätsklassen in P:
 [https://www.github.com/hjstephan86/strassen/doc/Strassen.pdf](https://www.github.com/hjstephan86/strassen/doc/Strassen.pdf)
 
-Pi hat einen Rhythmus von 21 Zahlen
+$\pi$ hat einen Rhythmus von 21 Zahlen
 
-e hat einen Rhythmus von 22 Zahlen
+$e$ hat einen Rhythmus von 22 Zahlen
 
-phi = 1,618… (goldene Zahl) hat einen Rhythmus von 34 Zahlen
+$\varphi$ = 1,618… (goldene Zahl) hat einen Rhythmus von 34 Zahlen
 
 Fasse QR Code spiralförmig auf, standardisiere diesen für die eigene persönliche Identifizierung eines jeden Bürgers dieser Erde
 
@@ -17,14 +17,16 @@ Index 49 der Fibonacci Folge F(49)=7.778 Mia
 
 Die grüne S-Kurve zeigt die Konvergenz der Fibonacci Folge bei Index 49 gegen die Kapazitätsgrenze von 10 Mia.
 
+![Vergleich: Fibonacci-Folge und S-Kurve](population.svg)
+
 $P(t) = \frac{K1}{1 + e^{-r(t - t_0)}}$, mit<br>
 $P$: Population<br>
 $K$: Kapazitätsgrenze (Tragfähigkeit der Erde)<br>
 $r$: Wachstumsrate<br>
 $t$: Zeit<br>
-$t_0$: Wendepunkt (Beginn der Verlangsamung)<br>
+$t_0$: F(49), Beginn der Verlangsamung<br>
 
-Die Wachstumsrate nähert sich dem goldenen Schnitt beschrieben durch F(n)/F(n-1) = phi, d.h., ein Wachstum von 61.8%.
+Die Wachstumsrate nähert sich dem goldenen Schnitt beschrieben durch $\frac{F(n)}{F(n-1)} = \varphi$, das ist ein Wachstum von 61.8%.
 
 Je kleiner die Intervalle, desto größer die Wahrscheinlichkeit dafür, dass unstetige Ereignisse herausgefiltert werden. Wäre zum Beispiel das Intervall einen Tag lang, dann wäre ein Ereignis wie der Tsunami noch sichtbar als unstetige Bevölkerungsentwicklung. Auffällig ist, dass unstetige Bevölkerungsentwicklungen durch Katastrophen entstehen. Unstet an und für sich ist keine gute Eigenschaft.
 
@@ -127,9 +129,9 @@ Wieso heißt der Schwerpunkt Schwerpunkt? Der Schwerpunkt ist doch der, an dem d
 
 Ich verstehe Donald Knuth nicht, wie er einfach die O-Notation der Mathematik in die Informatik einführt. Mir ist nicht klar, wie die aktuelle Definition der O-Notation für sehr kleine c > 0 wirklich zu verstehen ist. Wie klein kann  c g(n) wirklich werden und wie viel kleiner muss f(n) dann sein ab einem bestimmten n0?
 
-Proposal for Python: (1) Code (*.py), (2) Tokens, (3) AST, (4) Bytecode (*.pyc): PVM executes*.pyc. Now, commit clean code violations with an error, no AST, no *.pyc.
+Proposal for Python: (1) Code (\*.py), (2) Tokens, (3) AST, (4) Bytecode (\*.pyc): PVM executes \*.pyc. Now, commit clean code violations with an error, no AST, no \*.pyc.
 
-Lege die *.pyc einfach neben die *.py und verwende denselben Namen für die *.pyc wie für die *.py. Nicht mehr mymodule.cpython-312.pyc, sondern einfach mymodule.pyc.
+Lege die \*.pyc einfach neben die \*.py und verwende denselben Namen für die \*.pyc wie für die \*.py. Nicht mehr mymodule.cpython-312.pyc, sondern einfach mymodule.pyc.
 
 Interessant ist das schon, dass in der Relativitätstheorie von Albert Einstein die Lichtgeschwindigkeit konstant ist. Hängt doch die Ausbreitung des Lichts mit der Energie zusammen, von der sie ausstrahlt, d.h., von der Quelle. Unterschiedliche Sterne in unterschiedlicher Entfernung weisen eine unterschiedliche Lichtgeschwindigkeit auf. Ein zweiter Grund ist die Umgebung, in der das Licht strahlt. In unterschiedlichen Umgebungen breitet sich Licht unterschiedlich schnell aus, relativ.
 
