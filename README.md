@@ -109,6 +109,8 @@ Der triviale Kern besteht nur aus den Vektoren bei dem jeweils nur ein Element 1
 
 Die Einheitsmatrix ist gegeben durch den trivialen Kern in entsprechender Ordnung.
 
+Halte die Wertebereiche von Elementen einer Matrix in ihrer Größe klein, finde die Menge aller Kerne, mit Hilfe derer Ergebnisse von Matrixoperationen effizienter nachgeschaut werden können. Vergrößere den Wertebereich um ein Delta, das für das effizientere Nachschauen im vergrößerten Wertebereich genutzt wird.
+
 Das Pascalsche Dreieck muss gedreht werden zur Pascalschen Diagonalen, welche zur Laufzeit gefüllt und effizienter genutzt wird als die Berechnung von $\binom{n}{k}$.
 
 Die Idee des Algorithmus von **Strassen-25** eignet sich zum Finden von größten, nicht projezierbaren Einheiten.
