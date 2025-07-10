@@ -97,6 +97,10 @@ Ich will, dass jeder C+ Mitarbeiter hingerichtet wird, da er im Dienst einer teu
 
 Stetigkeit einer Funktion oder Abtastrate $f$: eine Funktion $f$ ist stetig, wenn es keinen Punkt $x$ im Definitionsbereich gibt mit mehr als einem $f(x)$ mit $f(x) = y_1$ und $f(x) = y_2$ und $y_1 \neq y_2$. Das heißt, $f$ hat einfach keine Sprünge von $y_1$ nach $y_2$.
 
+Diskutiere eine Funktion nur in der ersten Ableitung, drehe dazu die Funktion in einem Winkel, so dass jeder Wendepunkt zum Hoch-/Tiefpunkt wird.
+
+Zwei Vektoren $\boldsymbol{u}$ und $\boldsymbol{v}$ projezieren $\boldsymbol{w}$ genau dann, wenn es Konstanten $k_1$ und $k_2$ gibt, so dass $$k_1 \boldsymbol{u} + k_2\boldsymbol{v} = \boldsymbol{w} \neq \boldsymbol{0}.$$
+
 Nicht App Store oder Play Store, sondern App Set. In dieser App können Apps gefunden und heruntergeladen werden.
 
 Messe Freude beim Hören von Liedern, z.B. bei Youtube Music, über In-Ear Kopfhörer. Die Ohren sind näher am Schädel und damit am Gehirn, um die elektrischen Signale des Gehirns (EEG-Signale) besser zu erfassen.
