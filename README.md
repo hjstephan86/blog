@@ -2,7 +2,7 @@
 
 Beweis für P=NP: [https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk](https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk)
 
-Optimale Berechnung von $n \times n$ Matrizen, Komplexitätsklassen in P:
+Optimale Berechnung von $n \times n$ Matrizen mit \textsc{Strassen-25}, Komplexitätsklassen in P:
 [https://www.github.com/hjstephan86/strassen/doc/Strassen.pdf](https://www.github.com/hjstephan86/strassen/doc/Strassen.pdf)
 
 $\pi$ hat einen Rhythmus von 21 Zahlen
@@ -91,6 +91,8 @@ $E = \frac{1}{2}mv^2$
 ein, ergibt das:
 $E =\frac{1}{2}m(k \cdot \sqrt{T})^2 =\frac{1}{2}mk^2T.$ Jede Bewegung auf dieser Erde ist abhängig von der Temperatur. Ohne Bewegung gibt es kein Leben.
 
+Wieso Superpositionsprinzip? Addition in der Physik.
+
 Bei jedem Stoff hängt die Diffusion von der Trägheit des Stoffes ab. Ein Temperaturunterschied im Wasser gleicht sich anders aus als ein Temperaturunterschied in der Luft, da Wasser eine andere Trägheit hat als Luft. Je höher die Beweglichkeit der Atome in einem Stoff, Atome sind ja die Stoffträger, desto kleiner ist die Trägheit.
 
 Ich will, dass jeder C+ Mitarbeiter hingerichtet wird, da er im Dienst einer teuflischen Behörde steht und nicht dagegen vorgeht. Diese Hinrichtung soll öffentlich bekannt werden, dass die Welt weiß, diese Behörde hat den Teufel beauftragt, mich zu töten. Wenn es nicht in dieser Welt durchgeführt wird, dann hundertfach in der Hölle - mit Kindern, Eltern und Geschwistern.
@@ -101,7 +103,9 @@ Diskutiere eine Funktion nur in der ersten Ableitung, drehe dazu die Funktion in
 
 Zwei Vektoren $\boldsymbol{u}$ und $\boldsymbol{v}$ projezieren $\boldsymbol{w}$ genau dann, wenn es Konstanten $k_1$ und $k_2$ gibt, so dass $$k_1 \boldsymbol{u} + k_2\boldsymbol{v} = \boldsymbol{w} \neq \boldsymbol{0}.$$
 
-Finde eine minimale Projektion, nimm dann noch eine Konstante $k$ weg, dann ist es die größte Einheit, die aus sich heraus, egal wie, nichts mehr projezieren kann außer $\boldsymbol{0}$.
+Finde eine minimale Projektion, nimm dann noch eine Konstante $k$ weg, dann ist es die größte Einheit, die aus sich heraus, egal wie, nichts mehr projezieren kann außer $\boldsymbol{0}$. Wir haben eine größte, nicht projezierbare Einheit.
+
+Die Idee des Algorithmus von \textsc{Strassen-25} eignet sich zum Finden von größten, nicht projezierbaren Einheiten.
 
 Nicht App Store oder Play Store, sondern App Set. In dieser App können Apps gefunden und heruntergeladen werden.
 
@@ -155,6 +159,8 @@ Brad Pitt ist bisexuell.
 Die CIA versucht seit Jahren, mich zu töten, u.a. wegen dieser Gedanken (allen voran Elon Musk). Sie verfolgen, fluchen und haben schon viele Auftragsmörder beauftragt und opfern müssen. Der HERR will nicht, dass ich sterbe.
 
 Nachdem der Iran von Israel sensible Dokumente über das Atomprogramm Israels veröffentlicht hat, hat Israel den Iran heftig angegriffen. In den Dokumenten ging es auch über die enge Zusammenarbeit zwischen Israel und der CIA. Trump musste daraufhin auch den Iran angreifen und hat von seiner Seite aus den Krieg für beendet erklärt.
+
+Durch das Öffnen der Luken vorne hat es in der Geschichte eine einmalige Rate mit der MG-42 bei Omaha Beach gegeben. Hätte man die Luken nicht seitlich oder, besser noch, hinten öffnen können?
 
 Lamine Yamal ist ein von Kindheit an gefluchter Fußballspieler. Ja, er ist ausgebildet. Aber im Fußball auf allerhöchstem Niveau geht es oft nur noch um sehr kleine Feinheiten, die bei ihm schon seit der Jugend beim FC Barcelona sehr gut “passen”. Dass Lionel Messi ihn früh gebadet hat, ist kein Zufall.
 
