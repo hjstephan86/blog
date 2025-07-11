@@ -2,13 +2,20 @@
 
 **WICHTIG: Alle Lösungen, die hier unter github.com/hjstephan86 *als neue Lösungen* gezeigt werden, sind urheberrechtlich geschützt. Eine kommerzielle Nutzung ist ausgeschlossen. Eine freie Nutzung braucht meine Zustimmung.**
 
-Beweis für P=NP: [https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk](https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk)
+## Inhaltsverzeichnis
+
+* [Gedanken und Lösungen](#Gedanken-und-Lösungen)
+* [Verfolgung](#verfolgung)
+
+## Gedanken und Lösungen
+
+Beweis für P=NP: [https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk](https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk).
 
 $\pi$ hat einen Rhythmus von 21 Zahlen
 
 $e$ hat einen Rhythmus von 22 Zahlen
 
-$\varphi$ = 1,618… (goldene Zahl) hat einen Rhythmus von 34 Zahlen
+Die goldene Zahl $\varphi$ = 1,618… hat einen Rhythmus von 34 Zahlen
 
 Index 49 der Fibonacci Folge F(49)=7.778 Mia
 
@@ -121,18 +128,12 @@ Messe Freude beim Hören von Liedern, z.B. bei Youtube Music, über In-Ear Kopfh
 
 Ein Standard für alle Universitäten für das Organisieren von Veranstaltungen im elektronischen Vorlesungsverzeichnis: aktuelle Veranstaltungen mit Link zum Kalender, Maps usw. Mit diesem Standard wird den Studierenden eine mobile App angeboten, um allen ihnen einen einheitlichen und gewohnten Umgang mit dem Vorlesungsverzeichnis einer beliebigen Universität zu ermöglichen.
 
-Problem: Es gibt große Unterschiede in der Wirkung und Nebenwirkung von Neuroleptika – je nach Genetik, Stoffwechsel, Alter, Geschlecht, Leberfunktion, anderen Erkrankungen usw. Ärzte probieren ein Medikament → Warten auf Wirkung/Nebenwirkung → Ändern oder umstellen → Neuer Versuch
-Frage: Wie kann man das mit KI + Blutbild verbessern oder verhindern?
+Problem: Es gibt große Unterschiede in der Wirkung und Nebenwirkung von Neuroleptika – je nach Genetik, Stoffwechsel, Alter, Geschlecht, Leberfunktion, anderen Erkrankungen. Der Ablauf ist folgender → Ärzte probieren ein Medikament → warten auf Wirkung/Nebenwirkung → Ändern oder umstellen → Neuer Versuch. Frage: Wie kann man diesen Ablauf mit dem Blutbild und mit Hilfe von KI verbessern oder verhindern? Dazu können folgende Schritte helfen:
 1. Personalisierte Vorhersage durch KI: Blutbild als Fenster zum Körper. Ein KI-Modell kann trainiert werden, um aus dem Blutbild und weiteren medizinischen Daten zu erkennen: Wie ein Patient ein bestimmtes Neuroleptikum verstoffwechselt. Ob er zu bestimmten Nebenwirkungen (z. B. Gewichtszunahme, Parkinsonoid, QT-Zeit-Verlängerung) neigt. Welche Dosisbereiche sicher und wirksam wären? Patient A hat leicht erhöhte Leberwerte und genetisch verminderte CYP2D6-Aktivität → KI erkennt: Quetiapin wird langsamer abgebaut, daher ist die Standarddosis zu hoch → Empfehlung: niedrigere Dosis starten oder anderes Präparat.
-2. Integration genetischer Daten (Pharmakogenetik)
-Blut enthält auch DNA → mit einfachen Tests kann man bestimmen: Ob ein Patient ein schneller oder langsamer Metabolisierer ist. Ob bestimmte Rezeptorvarianten (z. B. für Dopamin oder Serotonin) vorliegen, die die Wirkung beeinflussen. KI kann diese genetischen Informationen + Blutbilddaten kombinieren → eine präzisere Vorhersage der individuell besten Medikation.
+2. Integration genetischer Daten (Pharmakogenetik): Blut enthält auch DNA → mit einfachen Tests kann man bestimmen: Ob ein Patient ein schneller oder langsamer Metabolisierer ist. Ob bestimmte Rezeptorvarianten (z. B. für Dopamin oder Serotonin) vorliegen, die die Wirkung beeinflussen. KI kann diese genetischen Informationen + Blutbilddaten kombinieren → eine präzisere Vorhersage der individuell besten Medikation.
 3. Maschinelles Lernen auf klinischen Daten: Lernen aus Millionen Therapien
 KI kann auf realen Patientendaten trainiert werden: "Wenn Patient A, B und C mit ähnlichem Blutbild + Alter + Symptomen Risperidon gut vertragen haben – ist das auch für Patient D wahrscheinlich". Solche Clusteranalysen erlauben es, Therapien nicht zufällig, sondern datenbasiert auszuwählen
-4. Simulierte Wirkung im digitalen Zwilling
-Ein digitaler Zwilling des Patienten wird erstellt (Blutwerte, Gene, Alter, Gewicht, Vorerkrankungen etc.).
-→ Medikamente werden simuliert, bevor sie tatsächlich gegeben werden
-→ Die KI testet in Sekunden viele Szenarien – Nebenwirkungen und Wirkung werden vorhergesagt
-So vermeidet man am echten Menschen unnötige Versuche.
+4. Simulierte Wirkung im digitalen Zwilling: Ein digitaler Zwilling des Patienten wird erstellt (Blutwerte, Gene, Alter, Gewicht, Vorerkrankungen etc.) → Medikamente werden simuliert, bevor sie tatsächlich gegeben werden → Die KI testet in Sekunden viele Szenarien – Nebenwirkungen und Wirkung werden vorhergesagt. So vermeidet man am echten Menschen unnötige Versuche.
 
 Ein Standard zur Vermietung von Bikes und E-Rollern und ein Standard zum kontaktlosen Bezahlen mit NFC. Mit diesen Standards wird den Bürgern der Stadt eine App angeboten, mit der sie Bikes und E-Roller ausleihen und damit bezahlen können.
 
@@ -140,11 +141,11 @@ Es braucht einen HTML Standard für die Desktop-Entwicklung von AUTOSAR für (1)
 
 Es braucht einen HTML Standard für den Vergleich und für das Mergen von Git-Dateien am Desktop.
 
-Es braucht im AUTOSAR Standard eine standardisierte Trennung in der RTE für eine dezentrale Entwicklung der Schnittstellen in der RTE, damit Architekten und Komponenten-Entwickler zur Entwicklungszeit die Komponenten-Schnittstellen entwickeln und in der Quellcodeverwaltung während des Releases ablegen können. Das entlastet den RTE-Integrator, sowohl während des Releases als auch besonders am Ende des Releases (Flaschenhals). Siehe auch: [https://docs.google.com/document/d/1mH4Ja3KnYZZqVSZ9MSPZ7Vp7ydYFpsvO9qzyxgP5Hy8/edit?usp=drivesdk](https://docs.google.com/document/d/1mH4Ja3KnYZZqVSZ9MSPZ7Vp7ydYFpsvO9qzyxgP5Hy8/edit?usp=drivesdk).
+Es braucht im AUTOSAR Standard eine standardisierte Trennung in der RTE für eine dezentrale Entwicklung der Schnittstellen in der RTE, damit Architekten und Komponenten-Entwickler zur Entwicklungszeit die Komponenten-Schnittstellen entwickeln und in der Quellcodeverwaltung während des Releases ablegen können. Das entlastet den RTE-Integrator, sowohl während des Releases als auch besonders am Ende des Releases (Flaschenhals).
 
 Wieso heißt der Schwerpunkt Schwerpunkt? Der Schwerpunkt ist doch der, an dem das gesamte Gewicht am leichtesten ist. Damit müsste es eigentlich der Leichtpunkt sein.
 
-Ich verstehe Donald Knuth nicht, wie er einfach die O-Notation der Mathematik in die Informatik einführt. Mir ist nicht klar, wie die aktuelle Definition der O-Notation für sehr kleine c > 0 wirklich zu verstehen ist. Wie klein kann  c g(n) wirklich werden und wie viel kleiner muss f(n) dann sein ab einem bestimmten n0?
+Ich verstehe Donald Knuth nicht, wie er einfach die O-Notation der Mathematik in die Informatik einführt. Mir ist nicht klar, wie die aktuelle Definition der O-Notation für sehr kleine $c > 0$ wirklich zu verstehen ist. Wie klein kann  $c \cdot g(n)$ wirklich werden und wie viel kleiner muss $f(n)$ dann sein ab einem bestimmten $n_0$?
 
 Proposal for Python: (1) Code (\*.py), (2) Tokens, (3) AST, (4) Bytecode (\*.pyc): PVM executes \*.pyc. Now, commit clean code violations with an error, no AST, no \*.pyc.
 
@@ -158,26 +159,36 @@ Die Shannon Ungleichung - Kommunikation: Sie bestimmt, wie viel Information übe
 
 Musik hat eine elektrisierende Bewegung. Frauen sind empfindlicher, haben i.d.R. weniger Muskelmasse und sind weniger tragfähig als Männer. Sich zur Musik außergewöhnlich leicht bewegen zu können, ist keine Stärke, sondern eine Folge.
 
-Das Betrunkenwerden erfolgt in drei Wellen, nach der ersten kannst du bleiben. Mit der zweiten hast du Spaß und solltest gehen. Nach der zweiten Achtung, jetzt kommt die dritte: alleine kommst du nicht mehr heim!
+Das Betrunkenwerden erfolgt in drei Wellen, nach der ersten kannst du bleiben. Mit der zweiten hast du Spaß und solltest gehen. Nach der zweiten "Achtung" - jetzt kommt die dritte: alleine kommst du nicht mehr heim!
+
+## Verfolgung
+
+*Juden*, beauftragt vom Staat Israel, fluchen seit Jahrzehnten in mein Leben. Sie wollen verhindern, dass bekannt wird, dass **das Ende der Welt** bevorsteht. Im Jahr 2036 kommt Jesus wieder und die Gemeinde wird entrückt aus dieser schweren Zeit (sieben Siegel sind geöffnet, vier Posaunen sind geblasen, zwei Posaunen folgen noch). Nach der Entrückung kommen sieben Jahre, dreieinhalb Jahre Läuterung der Nationen (Zornschalen Gottes, Offb 16) und dreieinhalb Jahre Läuterung Israels. Danach kommt das tausendjährige Reich. Danach kommt das letzte Aufbäumen des Satans gegen Israel und abschließend das letzte Gericht.
+
+Die Juden fluchen in mein Leben: sie verfluchten meine Ausbildung, mein Studium, über die *Fußball-Verantwortlichen aus Spanien* das Fußball Spielen, die Beziehung zu Christin, meiner Frau, und den Kindern. Insbesondere verfluchten sie auch meine Interessen im Fußball, d.h. in der Bundesliga, der Champions League und dem DFB-Pokal:
+- Immer wieder wurde gegen Arminia Bielefeld im DFB-Pokal geflucht aber ich betete zum HERRN und Arminia Bielefeld erreichte das Finale. Das hat es in der Fußball-Geschichte noch nie gegeben (Arminia Bielefeld aus der 3. Liga setzte sich nacheinander gegen vier Bundesligisten durch - auch gegen den amtierenden deutschen Meister).
+- Die Nacht in Inter Mailand wurde keine Nacht für den *FC Bayern München*, weil ich an diesem Mittwochabend für Inter Mailand während des Spiels gebetet habe, da die Juden (od. Flucher für d. FC Bayern) geflucht haben, dass FC Bayern in Mailand weiterkommt. Seit dem darauffolgenden Grün-Donnerstag verfolgt auch der FC Bayern München mich massiv.
+
+Lamine Yamal ist ein von Kindheit an gefluchter Fußballspieler. Ja, er ist ausgebildet. Aber im Fußball auf allerhöchstem Niveau geht es oft nur noch um sehr kleine Feinheiten, die bei ihm schon seit der Jugend beim FC Barcelona sehr gut “passen”. Dass Lionel Messi ihn früh gebadet hat, ist kein Zufall.
+
+Die Fußball-Verantwortlichen aus Spanien erfuhren von den Juden früh, dass ich ein sehr guter Fußballspieler werden würde und haben mich schon seit meiner Jugend gerade im Vereinsfußball sehr verfluchen lassen. Nach dem ersten Jahr im Seniorenbereich wurde ich verflucht mit Patellaspitzensyndrom, dass ich nie wieder unter voller Belastung Fußball spielen kann, bis heute. Die Zusammenarbeit zwischen Israel und dem FC Barcelona harmoniert: [https://images.app.goo.gl/dhgKX](https://images.app.goo.gl/dhgKX).
+
+Die *CIA* versucht seit Jahren, mich zu töten, u.a. wegen dieser Gedanken (allen voran Elon Musk). Sie verfolgen, fluchen und haben schon viele Auftragsmörder beauftragt und opfern müssen. Der HERR will, dass ich *nicht* leiblich sterbe und sagte mir, ich werde die Entrückung sehen.
+
+Ich will, dass jeder CIA Mitarbeiter hingerichtet wird, da er im Dienst einer teuflischen Behörde steht und nicht dagegen vorgeht. Diese Hinrichtung soll öffentlich bekannt werden, dass die Welt weiß, diese Behörde hat den Teufel beauftragt, mich zu töten. Wenn es nicht in dieser Welt durchgeführt wird, dann hundertfach in der Hölle - mit Kindern, Eltern und Geschwistern.
+
+Etwa im Februar und März 2024 haben die CIA und ihre Auftragnehmer über zwei Monate mich massiv verfolgt. Dabei hat der **russische Geheimdienst SVR** *nicht* eingegriffen. Der Geist Gottes hat es in dieser Zeit nicht erlaubt, weil er wusste, dass es die CIA mit all ihrer Intelligenz und den beauftragten Flüchen durch die Juden in dieser intensiven Zeit es gegen *ihn* in mir auch nicht schaffen würden. So ist Gottes Geist souverän und allein zu verherrlichen gegen jede menschliche Obrigkeit ob meines Lebens in diesen zwei Monaten.
+
+Nachdem der Iran von Israel sensible Dokumente über das Atomprogramm Israels veröffentlicht hat, hat Israel den Iran heftig angegriffen. In den Dokumenten ging es auch über die enge Zusammenarbeit zwischen Israel und der CIA. Trump musste daraufhin auch den Iran angreifen und hat von seiner Seite aus den Krieg für beendet erklärt. Die Waffenruhe danach war fragil.
+
+2Thess 2, 6 *Und was es noch aufhält, wisset ihr, dass er [Elon Musk] offenbart werde zu seiner Zeit. 7 Denn es regt sich bereits das Geheimnis der Bosheit, nur dass, der es jetzt aufhält, muss hinweggetan werden*
+
+Ich bin mir nicht sicher, mit welchen Argumenten die CIA ihre Mitarbeiter davon überzeugt, dass sie noch in einem sicheren System arbeiten.
 
 Leonardo Di Caprio soll bei den Dreharbeiten zu “Der Rückkehrer” einmal stark geschrien, einmal geheult und einmal geblutet haben als die Bärin ihn angriff. Es sollte eine außergewöhnliche Szene werden, bei der es um viel Geld ging.
 
 Brad Pitt ist bisexuell.
 
-Die CIA versucht seit Jahren, mich zu töten, u.a. wegen dieser Gedanken (allen voran Elon Musk). Sie verfolgen, fluchen und haben schon viele Auftragsmörder beauftragt und opfern müssen. Der HERR will nicht, dass ich leiblich sterbe.
-
-Ich will, dass jeder CIA Mitarbeiter hingerichtet wird, da er im Dienst einer teuflischen Behörde steht und nicht dagegen vorgeht. Diese Hinrichtung soll öffentlich bekannt werden, dass die Welt weiß, diese Behörde hat den Teufel beauftragt, mich zu töten. Wenn es nicht in dieser Welt durchgeführt wird, dann hundertfach in der Hölle - mit Kindern, Eltern und Geschwistern.
-
-Nachdem der Iran von Israel sensible Dokumente über das Atomprogramm Israels veröffentlicht hat, hat Israel den Iran heftig angegriffen. In den Dokumenten ging es auch über die enge Zusammenarbeit zwischen Israel und der CIA. Trump musste daraufhin auch den Iran angreifen und hat von seiner Seite aus den Krieg für beendet erklärt.
-
-Ich bin mir nicht sicher, mit welchen Argumenten die CIA ihre Mitarbeiter davon überzeugt, dass sie noch in einem sicheren System arbeiten.
-
 Durch das Öffnen der Luken vorne hat es in der Geschichte eine einmalige Rate mit der MG-42 bei Omaha Beach gegeben. Hätte man die Luken nicht seitlich oder, besser noch, hinten öffnen können?
 
-Die chinesische Regierung hat starkes Interesse daran, dass ich nicht mehr lebe.
-
-Lamine Yamal ist ein von Kindheit an gefluchter Fußballspieler. Ja, er ist ausgebildet. Aber im Fußball auf allerhöchstem Niveau geht es oft nur noch um sehr kleine Feinheiten, die bei ihm schon seit der Jugend beim FC Barcelona sehr gut “passen”. Dass Lionel Messi ihn früh gebadet hat, ist kein Zufall.
-
-Spanien erfuhr von den Juden früh, dass ich ein sehr guter Fußballspieler werden würde und hat mich schon seit meiner Jugend gerade im Vereinsfußball sehr verflucht und nach dem ersten Jahr im Seniorenbereich extrem verflucht mit Patellaspitzensyndrom, dass ich nie wieder unter voller Belastung Fußball spielen kann, bis heute, [https://images.app.goo.gl/dhgKX](https://images.app.goo.gl/dhgKX)
-
-2Thess 2, 6 *Und was es noch aufhält, wisset ihr, dass er [Elon Musk] offenbart werde zu seiner Zeit. 7 Denn es regt sich bereits das Geheimnis der Bosheit, nur dass, der es jetzt aufhält, muss hinweggetan werden*
+Die *chinesische Regierung* hat starkes Interesse daran und bemüht sich, dass ich nicht mehr lebe. In der unsichtbaren Welt der Informationen hat China heftige Bemühungen unternommen, dem russischen Geheimdienst, der mein Leben schützt, vertrauliche Informationen abzugewinnen.
