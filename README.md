@@ -2,6 +2,8 @@
 
 **<span style="color: orange;">Alle Lösungen, die hier unter github.com/hjstephan86 *als neue Lösungen* gezeigt werden, sind urheberrechtlich geschützt. Eine kommerzielle Nutzung ist ausgeschlossen. Eine freie Nutzung braucht meine Zustimmung.</span>**
 
+Gift to the world: Wörter der Bibel zählen lassen auf [https://www.123-bibel.de](https://www.123-bibel.de).
+
 ## Inhaltsverzeichnis
 
 * [Naturwissenschaft](#Naturwissenschaft)
@@ -15,11 +17,11 @@
 
 ## Naturwissenschaft
 
-Beweis für P=NP: [https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk](https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk)
-
 $\pi$ hat einen Rhythmus von 21 Zahlen
 
 $e$ hat einen Rhythmus von 22 Zahlen
+
+Beweis für P=NP: [https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk](https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk)
 
 Optimale Berechnung von $n \times n$ Matrizen $A$ und $B$ mit **Strassen-25**, Komplexitätsklassen in P:
 [https://github.com/hjstephan86/strassen/blob/main/doc/Strassen.pdf](https://github.com/hjstephan86/strassen/blob/main/doc/Strassen.pdf)
