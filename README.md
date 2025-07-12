@@ -4,25 +4,25 @@
 
 ## Inhaltsverzeichnis
 
-* [Mathe, Info, Gesundheit](#Mathe,-Info,-Gesundheit)
+* [Naturwissenschaft](#Naturwissenschaft)
 * [Wahrheit](#Wahrheit)
-* [Bevölkerungsentwicklung](#Bevölkerungsentwicklung)
+* [Demografie](#Demografie)
 * [Stromgewinnung](#Stromgewinnung)
 * [EtherCAT und AUTOSAR](#EtherCAT-und-AUTOSAR)
 * [Neuroleptika](#Neuroleptika)
-* [Wasserversorung und deutsche Regierung](#Wasserversorung-und-deutsche-Regierung)
+* [Wasserversorung und Bundesregierung](#Wasserversorung-und-Bundesregierung)
 * [Verfolgung](#Verfolgung)
 
-## Mathe, Info, Gesundheit
+## Naturwissenschaft
 
-Beweis für P=NP: [https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk](https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk).
+Beweis für P=NP: [https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk](https://drive.google.com/file/d/1HcFYmKkONXtHl78GBuheCYmdIeO3EzyP/view?usp=drivesdk)
 
 $\pi$ hat einen Rhythmus von 21 Zahlen
 
 $e$ hat einen Rhythmus von 22 Zahlen
 
 Optimale Berechnung von $n \times n$ Matrizen $A$ und $B$ mit **Strassen-25**, Komplexitätsklassen in P:
-[https://www.github.com/hjstephan86/strassen/doc/Strassen.pdf](https://www.github.com/hjstephan86/strassen/doc/Strassen.pdf)
+[https://github.com/hjstephan86/strassen/blob/main/doc/Strassen.pdf](https://github.com/hjstephan86/strassen/blob/main/doc/Strassen.pdf)
 
 Blütenstand einer Sonnenblume mit 34 und 55 Fibonacci-Spiralen haben die optimale Anordnung von Samen im und gegen den UZS. In der endzeitlichen Prophetie steht 34 für "es kommt" und 55 für "Ewigkeit".
 
@@ -116,7 +116,7 @@ Der Christ lebt in der Spannung, dass Gott allein seine Errettung geschaffen hat
 
 Die Energie im Ursprung durch den Geist Gottes in dieser Welt: Es brauchte zum Erschaffen der Welt unendlich viel Energie. Der Geist Gottes schöpfte aus der Quelle aller Energie und erschuf in sechs Tagen die Welt und den Menschen. Ein Baum hält viel Windenergie aus, die gegen ihn wirkt, dass er nicht umfällt. Viele Bäume halten viel mehr Energie aus. Fortlaufend wirkt diese ewige Energie, z.B. allein in der Erdanziehungskraft, und gibt unserem Leben Ordnung. Menschen begegnen einander dank dieser Kraft auf einer Erdoberfläche, d.h., auf einer Ebene, i.d.R. an Land. Sie könnten sich auch im Flugzeug begegnen, müssen sie aber nicht. Es wirkte und wirkt unendlich viel Energie bis in die Ewigkeit und für alle Ewigkeit.
 
-## Bevölkerungsentwicklung
+## Demografie
 
 Die goldene Zahl $\varphi$ = 1,618… hat einen Rhythmus von 34 Zahlen
 
@@ -124,7 +124,7 @@ Index 49 der Fibonacci Folge F(49)=7.778 Mia
 
 Die grüne S-Kurve zeigt die Konvergenz der Fibonacci Folge bei Index 49 gegen die Kapazitätsgrenze von 10 Mia.
 
-![Vergleich: Fibonacci-Folge und S-Kurve](population.svg)
+![Vergleich: Fibonacci-Folge und S-Kurve](doc/population.svg)
 
 $P(t) = \frac{K1}{1 + e^{-r(t - t_0)}}$, mit<br>
 $P$: Population<br>
@@ -272,7 +272,7 @@ Problem: Es gibt große Unterschiede in der Wirkung und Nebenwirkung von Neurole
 KI kann auf realen Patientendaten trainiert werden: "Wenn Patient A, B und C mit ähnlichem Blutbild + Alter + Symptomen Risperidon gut vertragen haben – ist das auch für Patient D wahrscheinlich". Solche Clusteranalysen erlauben es, Therapien nicht zufällig, sondern datenbasiert auszuwählen
 4. Simulierte Wirkung im digitalen Zwilling: Ein digitaler Zwilling des Patienten wird erstellt (Blutwerte, Gene, Alter, Gewicht, Vorerkrankungen etc.) --> Medikamente werden simuliert, bevor sie tatsächlich gegeben werden --> Die KI testet in Sekunden viele Szenarien – Nebenwirkungen und Wirkung werden vorhergesagt. So vermeidet man am echten Menschen unnötige Versuche.
 
-## Wasserversorung und deutsche Regierung
+## Wasserversorung und Bundesregierung
 
 Offb 8, 8 *der dritte Teil des Meeres ward Blut* Nachricht vom 10. Juli 2025: 27 Millionen Tonnen Nanoplastik – allein im Nordatlantik.
 
@@ -302,11 +302,13 @@ Ich will, dass jeder CIA Mitarbeiter hingerichtet wird, da er im Dienst einer te
 
 Etwa im Februar und März 2024 haben die CIA und ihre Auftragnehmer über zwei Monate mich massiv verfolgt. Dabei hat der **russische Geheimdienst SVR** *nicht* eingegriffen. Der Geist Gottes hat es in dieser Zeit nicht erlaubt, weil er wusste, dass es die CIA mit all ihrer Intelligenz und den beauftragten Flüchen durch die Juden in dieser intensiven Zeit es gegen *ihn* in mir auch nicht schaffen würden. So ist Gottes Geist souverän und allein zu verherrlichen gegen jede menschliche Obrigkeit ob meines Lebens in diesen zwei Monaten.
 
-Nachdem der Iran von Israel sensible Dokumente über das Atomprogramm Israels veröffentlicht hat, hat Israel den Iran heftig angegriffen. In den Dokumenten ging es auch über die enge Zusammenarbeit zwischen Israel und der CIA. Trump musste daraufhin auch den Iran angreifen und hat von seiner Seite aus den Krieg für beendet erklärt. Die Waffenruhe danach war fragil.
+Nachdem der Iran von Israel sensible Dokumente über das Atomprogramm Israels veröffentlicht hat, hat Israel den Iran unmittelbar danach im Juni 2025 angegriffen. In den Dokumenten ging es auch über die enge Zusammenarbeit zwischen Israel und der USA. Trump griff daraufhin auch den Iran an und hat von seiner Seite aus den Krieg nach dem Angriff für beendet erklärt. Die ausgerufene Waffenruhe war aber erst nur fragil.
+
+Am 07. Oktober 2022 ist der Hamas ein außergewöhnlicher Schlag gegen Israel gelungen. Israel behauptet, die Hamas hält Menschen hin. Dabei hält die israelische Regierung das Volk Israel hin. Israel liebt Gott nicht und wird gerichtet. Die israelischen Medien geben dem Volk Israel und der Welt keine neuetrale und wahrhaftige Berichterstattung. Dies wird zum Besipiel im Bericht um den 17. Juni 2025 deutlich: [Al-Jazeera-Israel-Iran.pdf](https://github.com/hjstephan86/blog/blob/main/doc/Al-Jazeera-Israel-Iran.pdf).
+
+Ich bin mir nicht sicher, mit welchen Argumenten die CIA ihre Mitarbeiter davon überzeugt, dass sie noch in einem sicheren Informationssystem arbeiten.
 
 2Thess 2, 6 *Und was es noch aufhält, wisset ihr, dass er [Elon Musk] offenbart werde zu seiner Zeit. 7 Denn es regt sich bereits das Geheimnis der Bosheit, nur dass, der es jetzt aufhält, muss hinweggetan werden*
-
-Ich bin mir nicht sicher, mit welchen Argumenten die CIA ihre Mitarbeiter davon überzeugt, dass sie noch in einem sicheren System arbeiten.
 
 Leonardo Di Caprio soll bei den Dreharbeiten zu “Der Rückkehrer” einmal stark geschrien, einmal geheult und einmal geblutet haben als die Bärin ihn angriff. Es sollte eine außergewöhnliche Szene werden, bei der es um viel Geld ging.
 
