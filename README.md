@@ -154,6 +154,8 @@ aber kostspielig und komplex. Das „Topf-im-Topf“-Prinzip hilft, die Energie 
 
 Idee: Gewinne mit der Erdrotation Strom durch Induktion. Die Erde dreht sich nicht immer mit gleicher Geschwindigkeit - tendenziell langsamer, aber auch mal schneller (2020 drehte sich die Erde schneller und die Tage waren kürzer). Nutze dazu den Winkel von 23,4°, das Erdmagnetfeld, welches sich auch kurzfristig ändern kann (stündlich oder täglich), und Empfänger für den durch Induktion zu gewinnenden Strom.
 
+Idee: Gewinne Strom durch den Strom des Wassers im Fluss mit Wasserschrauben (ähnlich zur Schiffsschraube) und Induktion. Die Schrauben werden pro Modul der Breite nach auf dem Flussboden installiert. Auf einem Flussboden können Serien von Modulen installiert werden (unter Rücksicht der Fische und des Schiffsverkehrs, welche immer Priorität haben müssen). Schutz für Fische und vor Treibholz wird sichergestellt durch feine Gitter vor einer jeden Schraube. Die Schraubmodule lassen sich bei Bedarf für den Schiffsverkehr auf die Erde neigen und verfügen über ein automatisches Reinigungsprogramm (Zurückdrehen der Schrauben, Aufklappen der Gitter in geneigter Position). Die Komponenten der Schraubmodule sind standardisiert, damit eine globale Herstellung und Wartung internationaler Hersteller und Mechaniker problemlos möglich ist.
+
 ## EtherCAT und AUTOSAR
 
 Erweiterungen für den EtherCAT Standard und den AUTOSAR Standard:
