@@ -28,6 +28,13 @@ Blütenstand einer Sonnenblume mit 34 und 55 Fibonacci-Spiralen haben die optima
 
 Fasse QR Code spiralförmig auf, standardisiere diesen für die eigene persönliche Identifizierung eines jeden Bürgers dieser Erde.
 
+SmartBeep ist ein Armband für
+- die persönliche Identifikation
+- kontaktloses Bezahlen
+- sanftes Wecken am Arm (Vibration)
+
+Das Armband kann über eine App konfiguriert werden (Kreditinstitut, Alarm, Ersatz).
+
 Software trust defines how much a user trusts in the software, e.g., a mobile app, an office app, …. Software trust of one, i.e., 1.0, is the value where the user trusts at most in the software. More than a value of 1.0 is not possible. However, actually, even in mobile apps like YouTube Music software trust is not 1.0, since, e.g., after removing a song from a playlist with 50 songs, the number of songs is still 50 and not 49 (yeah, there is a workaround: go back and select the playlist again).
 
 Eine Datei ist eine in sich abgeschlossen und unabhängige Einheit. Keine Software bzw. App der Welt darf beanspruchen, dass sie exklusiven Anspruch hat auf die Existenz und das Gebrauchen (lesen, sehen, schreiben, verschieben, umbenennen, …) dieser Datei. Die Datei wird abgelegt im Dateisystem. Dort gehört sie hin. Ist die Software vom System entfernt, bleibt die Datei im Dateisystem. Software hat nur das Ziel, den Benutzer in seinem Vorhaben bzw. Ablauf das Leben zu erleichtern und niemals den Benutzer an sich selber zu binden. Es gibt kommerziell nutzbare Apps (z.B. DAZN), die auch Dateien produzieren, welche im Dateisystem verschlüsselt sind für den Benutzer.
