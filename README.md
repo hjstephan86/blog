@@ -317,3 +317,5 @@ Brad Pitt ist bisexuell.
 Durch das Öffnen der Luken vorne hat es in der Geschichte eine einmalige Rate mit der MG-42 bei Omaha Beach gegeben. Hätte man die Luken nicht seitlich oder, besser noch, hinten öffnen können?
 
 Die *chinesische Regierung* hat starkes Interesse daran und bemüht sich, dass ich nicht mehr lebe. In der unsichtbaren Welt der Informationen hat China heftige Bemühungen unternommen, dem russischen Geheimdienst, der mein Leben schützt, vertrauliche Informationen abzugewinnen.
+
+Der Engel Gabriel hat bestätigt, dass wenn mir oder meiner Familie etwas angetan werden soll, dass dann kurz vor dem Zugriff die Entrückung erfolgen wird. Das heißt, notwendigerweise wird die Entrückung vorgezogen. Gabriel sagte, es gibt nur eine Entrückung. Der Welt zur Liebe schützt uns der russische Geheimdienst, dass bis zur Entrückung 2036 auch noch Menschen Raum zur Buße finden können. Denn anders geht es nicht.
