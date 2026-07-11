@@ -1,4 +1,4 @@
-# fork() in C
+## fork() in C
 
 Hier ist der Beispielcode für die Nutzung von `fork()`:
 
@@ -33,3 +33,24 @@ int main() {
 }
 ```
 Wieso wird bei pid = fork(); derselbe Befehl rechts vom = nur vom Elternprozess ausgeführt und links vom = von beiden Prozessen ausgeführt? Das ist etwas willkürluch und nicht klar definiert oder getrennt. Aufgrund dieser Bedeutung sind zum Beispiel unterschiedliche Interpretationen oder Ausführungen denkbar. Es kann zum Beispiel sein, dass beide Prozesse mit einer unterschiedlichen pid weiter ausgeführt werden, nämlich jeder Prozess mit der pid, die er ab dieser Ausführung selber hat. Es kann aber auch sein, dass beide Prozesse mit dieser eindeutigen pid weiter ausgeführt werden, die fork() für alle Prozesse links vom = eindeutig zurückgibt.
+
+## Ideen
+
+Blinker vorne rollt und der Blinker hinten nicht 
+
+Nicht-trivialer Hitzeverlauf als Funktion zum Backen im Ofen
+
+Hitze-Ausbreitungsprofile im Ofen zur Analyse nach dem Essen und zur Anpassung für zukünftige Backvorgänge
+
+Einen Abfluss in den Behälter für den WC-Reiniger an der Wand
+
+Eine mit KI trainierte Jura-Box zur Ermittlung des Rechts für Rechtsstreitigkeiten. Es wird viele einfachere Fälle geben, bei denen eine komplexe Analyse durch Juristen gar nicht erforderlich ist. Diese Jura-Box hat als oberstes Ziel den Schutz des Lebens durch die Gesetze des Landes und vertritt keine wirtschaftlichen oder politischen Interessen, die nur von kurzer Dauer sind.
+
+Wieso braucht es die Wahrscheinlichkeitsfunktion einer Zufallsvariablen? Davon abgesehen ist die Wahrscheinlichkeitsfunktion fortlaufend auch in den Sprungstellen als durchgehender Graf darzustellen mit Werten von 0 bis 1. So entspricht es der vollständigen Beschreibung. Wird sie dann um -90° gedreht, erleichtert dies dem Betrachter die Zuordnung zu einer der bekannten Verteilungen.
+
+Nicht Granatapfel, sondern Kernapfel.
+
+Automatische Retourenerkennung in Umsätzen und Hinweis bei Ablauf von Retourenfenstern in einer mobilen App.
+
+Erweiterung des OBD-Standards zur Visualisierung von CAN-Bus-Signalen in Echtzeit.
+
