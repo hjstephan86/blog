@@ -56,3 +56,4 @@ Erweiterung des OBD-Standards zur Visualisierung von CAN-Bus-Signalen in Echtzei
 
 Die Zyklomatische Komplexität (ZK) eines Softwareprojekts gibt an, an welcher Stelle oder Stellen im Code die Software besonders fehleranfällig sein könnte oder ist. In der Praxis muss das aber nicht damit zusammenhängen, wo bisher überall Softwarefehler wirklich aufgetreten sind oder auftreten. Mit einer mathematischen Wahrscheinlichkeitsverteilung, die die ZK mit betrachtet, lässt sich eine Korrelation zur ZK nur schwer durchführen. Das liegt daran, dass Software so individuell ist und unter so vielen Einflussfaktoren steht, die nicht mehr wirklich berechenbar sind, wie die Umgebung, die Benutzer, die sich ändernden Anforderungen und so weiter.
 
+Salzwasser aus dem Meer zum Befüllen der großen Wasserlöcher unter dem Erdboden.
