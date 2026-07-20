@@ -59,3 +59,5 @@ Die Zyklomatische Komplexität (ZK) eines Softwareprojekts gibt an, an welcher S
 Salzwasser aus dem Meer zum Befüllen der großen Wasserlöcher unter dem Erdboden.
 
 Das Grillen über Feuer mit Flammen ist besser für das Fleisch als die gleichmäßige Erhitzung über einem Kohlenfeuer oder in einem Ofen.
+
+BaseModel von pydantic sollte PydanticBase heißen.
