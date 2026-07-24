@@ -61,3 +61,5 @@ Salzwasser aus dem Meer zum Befüllen der großen Wasserlöcher unter dem Erdbod
 Das Grillen über Feuer mit Flammen ist besser für das Fleisch als die gleichmäßige Erhitzung über einem Kohlenfeuer oder in einem Ofen.
 
 BaseModel von pydantic sollte PydanticBase heißen.
+
+Ist Druck in der Realität ideal gleichmäßig, zum Beispiel bei einem Springbrunnen bezogen auf die ganze relativ kleine Kreisfläche, durch die das Wasser hochgedrückt wird? Nein. Was macht der Druck mit sich selbst? Der Druck mit sich selbst drückt sich selber weg. Er kann nicht ideal gleichmäßig sein. Lineare Betrachtungen oder Modelle sind daher einfach ausgeschlossen. Ganz anschaulich sieht man das an einem Springbrunnen.
