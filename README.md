@@ -63,3 +63,5 @@ Das Grillen über Feuer mit Flammen ist besser für das Fleisch als die gleichm�
 BaseModel von pydantic sollte PydanticBase heißen.
 
 Ist Druck in der Realität ideal gleichmäßig, zum Beispiel bei einem Springbrunnen bezogen auf die ganze relativ kleine Kreisfläche, durch die das Wasser hochgedrückt wird? Nein. Was macht der Druck mit sich selbst? Der Druck mit sich selbst drückt sich selber weg. Er kann nicht ideal gleichmäßig sein. Lineare Betrachtungen oder Modelle sind daher einfach ausgeschlossen. Ganz anschaulich sieht man das an einem Springbrunnen.
+
+Lichtgeschwindigkeit breitet sich in demselben Medium nach der Konstanten c ja eigentlich immer gleich schnell aus. Das entspricht aber nicht der Realität. Die Lichtgeschwindigkeit breitet sich auch im selben Medium nicht immer gleich schnell aus. Interessant ist die Frage, mit welcher Abweichung sich das Licht im selben Medium nicht gleich schnell ausbreitet. Mit welcher Verteilung oder welchen Verteilungen kann das in Abhängigkeit von den unterschiedlichen Medien beschrieben werden? Und wie sehen die maximale Abweichung und die zu erwartende Abweichung wirklich aus?
