@@ -66,4 +66,6 @@ Ist Druck in der Realität ideal gleichmäßig, zum Beispiel bei einem Springbru
 
 Lichtgeschwindigkeit breitet sich in demselben Medium nach der Konstanten c ja eigentlich immer gleich schnell aus. Das entspricht aber nicht der Realität. Die Lichtgeschwindigkeit breitet sich auch im selben Medium nicht immer gleich schnell aus. Interessant ist die Frage, mit welcher Abweichung sich das Licht im selben Medium nicht gleich schnell ausbreitet. Mit welcher Verteilung oder welchen Verteilungen kann das in Abhängigkeit von den unterschiedlichen Medien beschrieben werden? Und wie sehen die maximale Abweichung und die zu erwartende Abweichung wirklich aus? 
 
-$E = m c^2$ stimmt, aber $c$ ist nicht konstant und $m$ ist immer in Abhängigkeit des inhomogenen Gravitationsfeldes zu betrachten. Damit ist $E$ nicht trivial berechenbar. Das verwundert aber nicht, da in der Praxis die Energie erst wirklich dann nicht mehr wirkt, wenn sie nicht mehr wirken kann. 
+$E = m c^2$ stimmt, aber $c$ ist nicht konstant und $m$ ist immer in Abhängigkeit des inhomogenen Gravitationsfeldes zu betrachten. Damit ist $E$ nicht trivial berechenbar. Das verwundert aber nicht, da in der Praxis die Energie erst wirklich dann nicht mehr wirkt, wenn sie nicht mehr wirken kann.
+
+Depression ist die kontinuierliche Erfahrung von Negierung einer oder mehrerer Möglichkeiten des Lebens
