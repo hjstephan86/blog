@@ -68,4 +68,4 @@ Lichtgeschwindigkeit breitet sich in demselben Medium nach der Konstanten c ja e
 
 $E = m c^2$ stimmt, aber $c$ ist nicht konstant und $m$ ist immer in Abhängigkeit des inhomogenen Gravitationsfeldes zu betrachten. Damit ist $E$ nicht trivial berechenbar. Das verwundert aber nicht, da in der Praxis die Energie erst wirklich dann nicht mehr wirkt, wenn sie nicht mehr wirken kann.
 
-Depression ist die kontinuierliche Erfahrung von Negierung einer oder mehrerer Möglichkeiten des Lebens
+Depression ist die kontinuierliche Erfahrung von Negierung einer oder mehrerer Möglichkeiten des Lebens. Wird das Gehirn als Graph modelliert mit Knoten und Kanten, wobei die Kanten Verbindungen zwischen den Synapsen und die Knoten die Synapsen darstellen, dann kann die Intensität einer Depression im Gehirn damit modelliert werden, dass bestimmte Lebenswege nicht oder nicht mehr möglich sind.
